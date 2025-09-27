@@ -74,5 +74,5 @@ if __name__ == '__main__':
     #torch.save(torch.tensor(history['loss']), 'final_loss_fmnist_50pct_LMP.pt')
     #torch.save(torch.tensor(history['acc']), 'final_accuracy_fmnist_50pct_LMP.pt')
 
-    torch.save(torch.tensor(history['loss']), 'final_loss_FMNIST_LMP.pt')
-    torch.save(torch.tensor(history['acc']), 'final_accuracy_FMNIST_LMP.pt')
+    torch.save(torch.tensor(history['loss']), 'final_loss_FMNISt50%_LMP.pt')
+    torch.save(torch.tensor(history['acc']), 'final_accuracy_FMNISt50%_LMP.pt')

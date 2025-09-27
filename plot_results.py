@@ -4,7 +4,7 @@ import numpy as np
 
 # --- 配置区 ---
 # 确保这个文件名与您在 main.py 中保存的文件名一致
-ACCURACY_FILE = 'final_accuracy_cifar10_EB.pt'
+ACCURACY_FILE = 'final_accuracy_FMNIST_LMP.pt'
 OUTPUT_IMAGE_FILE = 'my_accuracy_plot.png'
 
 # --- 绘图脚本 ---
